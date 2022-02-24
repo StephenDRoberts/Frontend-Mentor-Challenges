@@ -1,3 +1,3 @@
 # Frontend Mentor Challenges
 
-[https://www.frontendmentor.io/challenges](https://www.frontendmentor.io/challenges){:target="_blank"}
+<a href="https://www.frontendmentor.io/challenges" target="_blank">https://www.frontendmentor.io/challenges</a>
